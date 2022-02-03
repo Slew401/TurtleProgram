@@ -1,0 +1,8 @@
+{
+      SET A := 50 2 - ;
+      FD 20
+      RT 18
+      DO D FROM A TO 10 {
+         FD A
+      }
+   }
