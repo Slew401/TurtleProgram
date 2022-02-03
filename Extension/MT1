@@ -1,0 +1,35 @@
+{
+   CC RED
+   DO A FROM 1 TO 3 {
+      FD 60
+      RT 120
+   }
+  
+   CC WHITE
+   MT X 200 Y 200
+   DO A FROM 1 TO 3 {
+      FD 60
+      RT 120
+   }
+  
+   CC GREEN
+   MT X 600 Y 600
+   DO A FROM 1 TO 3 {
+      FD 60
+      RT 120
+   } 
+  
+   CC YELLOW
+   MT X 200 Y 600
+   DO A FROM 1 TO 3 {
+      FD 60
+      RT 120
+   }
+  
+   CC RAND
+   MT X 600 Y 200
+   DO A FROM 1 TO 3 {
+      FD 60
+      RT 120
+   }
+}

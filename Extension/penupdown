@@ -1,0 +1,34 @@
+{
+   MT X 400 Y 0
+   RT 270
+   DO A FROM 1 TO 20 {
+      FD 20
+      PEN UP
+      FD 20
+      PEN DOWN
+   }
+   MT X 0 Y 0
+   RT 45
+   DO A FROM 1 TO 30 {
+      FD 20
+      PEN UP
+      FD 20
+      PEN DOWN
+   }
+   MT X 0 Y 400
+   RT 45
+   DO A FROM 1 TO 30 {
+      FD 20
+      PEN UP
+      FD 20
+      PEN DOWN
+   }
+   MT X 800 Y 0
+   RT 225
+   DO A FROM 1 TO 30 {
+      FD 20
+      PEN UP
+      FD 20
+      PEN DOWN
+   }
+}

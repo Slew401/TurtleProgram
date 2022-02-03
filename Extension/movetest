@@ -1,0 +1,8 @@
+{
+   DO A FROM 1 TO 4 {
+   FD 400
+   MT X 400 Y 400 
+   RT 90
+   FD 400
+   }
+}
